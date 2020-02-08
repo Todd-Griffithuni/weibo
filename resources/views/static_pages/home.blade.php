@@ -4,7 +4,7 @@
 
 @section('content')
   <div class="jumbotron">
-    <h1>Hello Laravel</h1>
+    <h1>Hello, Zekun, This is the Laravel</h1>
     <p class="lead">
       你现在所看到的是 <a href="https://learnku.com/courses/laravel-essential-training">Laravel 入门教程</a> 的示例项目主页。
     </p>
